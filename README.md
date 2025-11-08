@@ -11,6 +11,8 @@
    2. 最低基準である4.5:1に達していればGood👍と表示されます．
    3. それ以下であればBad..と表示されます．
 
+<img width="1244" height="1027" alt="image" src="https://github.com/user-attachments/assets/29770169-cac4-4d07-9b96-58fcf77e2549" />
+
 ## 仕様詳細
 
 ### 画像処理
